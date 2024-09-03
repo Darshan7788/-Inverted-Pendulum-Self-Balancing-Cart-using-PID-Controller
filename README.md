@@ -79,6 +79,8 @@ MATLAB Simulink was used to model and simulate the inverted pendulum system with
 ## Results
 
 The simulation demonstrated that the PID controller effectively balances the inverted pendulum on the cart. The system successfully countered disturbances and maintained stability, with the IMU sensor readings remaining near the desired setpoint throughout the experiment. The performance was superior compared to a simple proportional control system.
+
+
 ![image](https://github.com/user-attachments/assets/468659ee-e748-4658-b61b-43207922a3ad)
 
 ## Conclusion
