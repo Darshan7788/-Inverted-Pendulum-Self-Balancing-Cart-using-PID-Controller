@@ -93,11 +93,6 @@ Future enhancements could involve:
 - Exploring applications in transportation systems, such as Segways.
 
 ## References
+1. Roberge, J.K., "The Mechanical Seal," M.I.T. Bachelor's Thesis, 1960.
+2. Higdon, Cannon, "Stabilization of Inverted Pendulum Systems," American Journal of Physics, 1963.
 
-1. Darshan Chotaliya, Chaitanya Yenge, Vedang Banpurkar. "RCS KDR Project Report" [PDF].
-2. Roberge, J.K., "The Mechanical Seal," M.I.T. Bachelor's Thesis, 1960.
-3. Higdon, Cannon, "Stabilization of Inverted Pendulum Systems," American Journal of Physics, 1963.
-
----
-
-Feel free to modify or add more details based on specific content or additional information you'd like to highlight.
